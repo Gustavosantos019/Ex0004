@@ -78,12 +78,12 @@ h3{
 }
 
 button{
-    color: #000;
+    color: black;
     padding: 20px;
     margin-bottom: 20px;
     border-bottom: 1px solid black;
     border-radius: 15px;
-    background-color: rgb(7, 7, 7);
+    background-color: rgb(255, 255, 255);
     cursor: pointer;
 }
 
